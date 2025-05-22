@@ -13,8 +13,8 @@ class Settings(BaseSettings):
     VECTOR_STORE_DIR: str = "data/vectorstore"
     
     # Model Settings
-    OPENAI_API_KEY: str = "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"
-    
+    OPENAI_API_KEY: str = "ENTER_YOUR_OPENAI_API_KEY"
+
     class Config:
         env_file = ".env"
         case_sensitive = True
