@@ -15,7 +15,7 @@ A sophisticated chatbot that performs research across multiple documents, identi
 
 - Backend: FastAPI with Python
 - Frontend: Streamlit
-- Database: Vector store (ChromaDB)
+- Database: Vector store (FAISS)
 - OCR: Tesseract
 - LLM: OpenAI GPT
 
