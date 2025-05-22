@@ -97,8 +97,9 @@ streamlit run app.py
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Folder Structure
-.
+## FOLDER Structure
+
+```text
 ├── LICENSE
 ├── README.md
 ├── backend
@@ -145,9 +146,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     ├── dependency_links.txt
     ├── requires.txt
     └── top_level.txt
+```
 
-15 directories, 31 files
+
+## 🟢 Demo
 
 
-## Demo
-[![Watch the demo](/workspaces/simran-r-wasserstoff-AiInternTask/backend/files/Screenshot 2025-05-22 110539.png)](/workspaces/simran-r-wasserstoff-AiInternTask/backend/files/demo.mp4)
+[![***Click image for Demo video***]](https://drive.google.com/file/d/1JcnzapD0pwp1se2Wh2gXAwReLC08XBBL/view?usp=drive_link)
+
+[![Click for Demo video](demo/Screenshot%202025-05-22%20110539.png)](https://drive.google.com/file/d/1JcnzapD0pwp1se2Wh2gXAwReLC08XBBL/view?usp=drive_link)
