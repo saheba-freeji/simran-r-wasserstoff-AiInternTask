@@ -148,6 +148,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 15 directories, 31 files
 
+<pre> ## Project Structure ``` ├── LICENSE ├── README.md ├── backend │ ├── Dockerfile │ ├── __init__.py │ ├── app │ │ ├── __init__.py │ │ ├── api │ │ ├── config.py │ │ ├── core │ │ ├── main.py │ │ ├── models │ │ │ ├── api.py │ │ │ └── document.py │ │ └── services │ │ ├── __init__.py │ │ ├── document_parser.py │ │ ├── test_parser.py │ │ ├── theme_identifier.py │ │ └── vector_store.py │ ├── data │ │ └── vectorstore │ │ ├── faiss.index │ │ └── metadata.pkl │ └── files │ ├── DOC02.docx │ └── doc2.jpg ├── commands ├── demo ├── docker-compose.yml ├── docs ├── frontend │ ├── Dockerfile │ ├── app.py │ ├── requirements.txt │ └── temp ├── requirements.txt ├── setup.py ├── start.sh ├── tests └── theme_identifier_chatbot.egg-info ├── PKG-INFO ├── SOURCES.txt ├── dependency_links.txt ├── requires.txt └── top_level.txt 15 directories, 31 files ``` </pre>
 
 ## Demo
-[![Watch the demo](/workspaces/simran-r-wasserstoff-AiInternTask/backend/files/Screenshot 2025-05-22 110539.png)](/workspaces/simran-r-wasserstoff-AiInternTask/backend/files/demo.mp4)
+
+
+[![***Click image for Demo video***]](https://drive.google.com/file/d/1JcnzapD0pwp1se2Wh2gXAwReLC08XBBL/view?usp=drive_link)
+
+[![Click for Demo video](demo/Screenshot%202025-05-22%20110539.png)](https://drive.google.com/file/d/1JcnzapD0pwp1se2Wh2gXAwReLC08XBBL/view?usp=drive_link)
