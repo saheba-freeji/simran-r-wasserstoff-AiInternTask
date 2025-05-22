@@ -1,0 +1,19 @@
+langchain
+openai
+faiss-cpu
+tesseract
+# tesseract-ocr
+pytesseract
+pandas
+python-docx
+pdfplumber
+chardet
+python-multipart
+uvicorn
+fastapi
+streamlit
+pydantic-settings
+sentence-transformers
+streamlit
+requests
+python-dotenv

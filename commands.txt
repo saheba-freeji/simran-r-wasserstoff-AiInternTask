@@ -1,0 +1,15 @@
+python3 -m venv venv
+source venv/bin/activate
+rm -rf backend/venv
+
+
+pip install -e .
+pip install --upgrade pip
+
+cd backend
+python -m app.services.test_parser
+
+cd backend && uvicorn app.main:app --reload
+cd frontend && streamlit run app.py
+
+pkill -f "uvicorn|streamlit"
