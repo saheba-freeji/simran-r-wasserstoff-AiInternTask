@@ -93,9 +93,10 @@ cd frontend
 streamlit run app.py
 ```
 
-## License
+## WORKFLOW
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![demo/WORKFLOW.png](demo/WORKFLOW.png)
+
 
 ## FOLDER Structure
 
@@ -155,3 +156,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![***Click image for Demo video***]](https://drive.google.com/file/d/1JcnzapD0pwp1se2Wh2gXAwReLC08XBBL/view?usp=drive_link)
 
 [![Click for Demo video](demo/Screenshot%202025-05-22%20110539.png)](https://drive.google.com/file/d/1JcnzapD0pwp1se2Wh2gXAwReLC08XBBL/view?usp=drive_link)
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
